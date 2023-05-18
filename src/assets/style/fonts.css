@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "Eina03";
+    src: local("Eina03 Regular"), local("Eina03-Regular"),
+      url("../fonts/eina/Eina03-Regular.woff2") format("woff2"),
+      url("../fonts/eina/Eina03-Regular.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Eina03";
+    src: local("Eina03 SemiBold"), local("Eina03-SemiBold"),
+      url("../fonts/eina/Eina03-SemiBold.woff2") format("woff2"),
+      url("../fonts/eina/Eina03-SemiBold.woff") format("woff");
+    font-weight: 600;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Eina03";
+    src: local("Eina03 Bold"), local("Eina03-Bold"),
+      url("../fonts/eina/Eina03-Bold.woff2") format("woff2"),
+      url("../fonts/eina/Eina03-Bold.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Eina03";
+    src: local("Eina03 SemiboldItalic"), local("Eina03-SemiboldItalic"),
+      url("../fonts/eina/Eina03-SemiboldItalic.woff2") format("woff2"),
+      url("../fonts/eina/Eina03-SemiboldItalic.woff") format("woff");
+    font-weight: 650;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Eina04";
+    src: local("Eina04 Bold"), local("Eina04-Bold"),
+      url("../fonts/eina/Eina04-Bold.woff2") format("woff2"),
+      url("../fonts/eina/Eina04-Bold.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+  }

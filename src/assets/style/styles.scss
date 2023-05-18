@@ -1,0 +1,44 @@
+:root {
+	--main-font: "Eina03", sans-serif;
+	--main-font2: "Eina04", sans-serif;
+	--color-black: #000;
+	--color-blue: #263959;
+	--color-base: #fff;
+}
+
+* {
+	box-sizing: border-box;
+	outline: none;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	display: inline-block;
+	color: var(--color-dark);
+	font-family: var(--main-font);
+}
+
+button {
+    border: none;
+	cursor: pointer;
+	background: transparent;
+}
+  
+img {
+    max-width: 100%;
+}
+  
+.pt-5 {
+    padding-top: 5px !important;
+}
+
+body {
+	font-family: var(--main-font);
+	position: relative;
+	overflow-x: hidden;
+	font-weight: 400;
+	font-size: 20px;
+	width: 100%;
+	transition: all 0.3s ease-in-out;
+}
